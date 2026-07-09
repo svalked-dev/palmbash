@@ -1,5 +1,3 @@
----
-
 # palmbash
 
 Minimal shell with time-based color prompt.
@@ -52,5 +50,3 @@ Everything else runs in subshell.
 ```bash
 alias pb='palmbash'
 ```
-
----
